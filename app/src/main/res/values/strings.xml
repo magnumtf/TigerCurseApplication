@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TigerCurseApplication</string>
+    <string name="title_activity_tiger_curse">Map</string>
+    <string name="google_maps_key">AIzaSyAf-pqhocdmm2Wh2Czq1Bi5PW2shF3FrmM</string>
+</resources>
